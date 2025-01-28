@@ -1,5 +1,5 @@
 //jogo do amigo secreto 
-inicialmente usurio insere o nome de seus amigos, onde a cada amigo adicionado, vai sendo adicionado na lista que aparece logo a baixo do campo.
+inicialmente usuário insere o nome de seus amigos, onde a cada amigo adicionado, vai sendo adicionado na lista que aparece logo a baixo do campo.
 ao finalizar a lista, ao clicar em sortear, aparece a pessoa sorteada. 
 ao incluir um novo nome, a fim de gerar uma nova lista, um novo "jogo" é iniciado. //
 
